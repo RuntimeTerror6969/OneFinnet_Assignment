@@ -12,7 +12,7 @@
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/aryanak-18/Aryan_OneFinnet_Assignment.git
+   git clone https://github.com/RuntimeTerror6969/OneFinnet_Assignment
    cd project
    ```
 
